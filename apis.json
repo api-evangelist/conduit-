@@ -1,0 +1,64 @@
+{
+    "name": "Conduit",
+    "description": "Conduit. EMPOWERING BUSINESSES WITH CLOUD-BASED SOLUTIONS SINCE 2005",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/560-conduit-.jpg",
+    "tags": [
+        "api not found",
+        "have api",
+        "html",
+        "javascript",
+        "toolbars",
+        "widgets"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/conduit-\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Conduit",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/560-conduit-.jpg",
+            "humanURL": "http:\/\/www.conduit.com\/Developers\/overview.aspx",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/conduit--openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "http:\/\/www.blog.conduit.com"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/blog.conduit.com\/feed"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/conduit"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/conduit"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/conduit"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/Conduit"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.conduit.com\/Developers\/overview.aspx"
+        }
+    ]
+}
